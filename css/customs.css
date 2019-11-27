@@ -1,0 +1,28 @@
+.dcnx{
+    color: #ffffff; 
+    position: absolute;
+    background: #b0b435;
+    overflow: hidden;
+    font-size: 12px;
+    top: 0;
+    padding: 5px 2px;
+    right: 20px;
+    font-weight: bold;
+
+}
+.dcnx:hover{
+    background: #b0b435;
+    color: #070070; 
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
+    animation-duration: 0.5s;
+}
+.chariot h1{
+    text-align: center;
+}
+.img-ch{
+    height: 90px;
+    border: 1px outset rgba(66, 66, 66, 0.712);
+    border-radius: 5px;
+}
